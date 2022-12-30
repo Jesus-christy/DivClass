@@ -1,0 +1,33 @@
+.firstdiv
+         {
+         float: left;
+         padding : 1%;
+         color: red;
+         background-color:pink;
+         width: 40%;
+         border: 5px solid black;
+         }
+         .seconddiv
+         {
+         float: left;
+         padding : 1%;
+         color: black;
+         background-color: lightyellow;
+         width: 40%;
+         border: 5px solid black;
+         }
+         .thirddiv
+         {
+         float: left;
+         padding : 1%;
+         color: brown;
+         background-color: lightgreen;
+         width: 40%;
+         border: 5px solid black;
+         }
+         body {
+            font-weight: bold;
+         }
+         p{
+            text-align: justify;
+         }
